@@ -1,1 +1,3 @@
-develop
+def hello():
+    print("word")
+
