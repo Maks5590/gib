@@ -1,2 +1,2 @@
 def hello():
-    print("work")
+    print("Wold")
